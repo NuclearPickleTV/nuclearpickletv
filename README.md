@@ -1,7 +1,7 @@
 # Welcome
 
 [![NuclearPickleTV's GitHub stats](https://gitreadme-one.vercel.app/api?username=nuclearpickletv)](https://github.com/NuclearPickleTV/gitreadme)
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nuclearpickletv&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nuclearpickletv&theme=react&line_height=40&hide=css&hide=shaderlab"/> </a>
 
 ## About Me
 
